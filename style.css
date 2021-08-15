@@ -1,0 +1,24 @@
+ul{list-style-type: none;float: left;}
+li{display: inline; padding-left: 30px;padding-top: 0px;}
+nav{background: #080706; width: 100%; height: 50px; float: left;}
+ul li a:hover{color: white;}
+a{text-decoration: none;}
+/*banner*/
+.banner{width: 100%; background: url(bg4.jpg); height: 500px; background-size: cover;}
+
+/*section 2*/
+.banner2 h1{text-align: center;font-size: 50px;}
+.banner2 h2{text-align: center;font-size: 30px;}
+.banner2 p{text-align: justify;font-size: 30px;padding-left: 120px;padding-right: 120px;font-family: cursive;}
+
+.banner3 h3{text-align: left; padding-right: 180px;padding-left: 240px;font-size: 40px; display: inline;}
+.banner3 h4{text-align: center;padding-right: 175px; padding-left: 190px; display: inline;font-size: 40px;margin-left: 0px;}
+.banner3 h5{text-align: right;padding-right: 170px;padding-left: 240px;font-size: 40px; display: inline;}
+.banner4{margin-right: 30px;margin-left: 30px;}
+.banner4 img{margin-left: 43px;}
+
+.banner5 p1{text-align: left; padding-right: 80px;padding-left: 80px;font-size: 40px; display: inline;}
+.banner5 p2{text-align: center;padding-right: 80px; padding-left: 80px; display: inline;font-size: 40px;margin-left: 0px;}
+.banner5 p3{text-align: right;padding-right: 80px;padding-left: 80px;font-size: 40px; display: inline;}
+.banner6{margin-right: 30px;padding-top: 150px;margin-left: 30px;}
+.banner6 img{margin-left: 43px;}
